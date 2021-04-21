@@ -7,7 +7,7 @@ const MyMessage = ({message}) => {
                 src={message.attachments[0].file}
                 alt="message-attachment"
                 className="message-iamge"
-                style={{float:'right'}}
+                style={{float:'right', height:'200px'}}
             />
         )
     }

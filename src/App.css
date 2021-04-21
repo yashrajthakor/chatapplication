@@ -249,7 +249,7 @@
   color: white;
   margin-bottom: 30px;
   width: 100%;
-  font-size: 2.3em;;
+  font-size: 2.3rem;;
 }
 
 .button {
@@ -293,4 +293,5 @@
   color: white;
   text-align: center;
   margin-top: 20px;
+  font-size: 2rem;
 }
